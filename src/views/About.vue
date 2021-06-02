@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>wizardmmm</h1>
+    <h1>ultimo teste</h1>
   </div>
 </template>
